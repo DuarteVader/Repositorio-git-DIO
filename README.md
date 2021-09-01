@@ -1,5 +1,6 @@
 # Repositorio-git-DIO
 Repositório para o curso de git da Digital Innovation One.
+Este repositorio eu vou atualizando com todos os cursos que eu já fiz na plataforma e pretendo fazer.
 
 
 Cursos que eu já realizei:
